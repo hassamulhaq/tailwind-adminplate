@@ -1,2 +1,2 @@
-# tailwind-adminplate
+# Tailwind Adminplate
 Free open source Tailwind AdminPlate dashboard is a modern Tailwind CSS Dashboard/Admin Template.
